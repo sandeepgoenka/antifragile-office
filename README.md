@@ -4,9 +4,29 @@ An AI-native operating system for family offices.
 
 ## The Problem
 
-Most family office systems are fragile: they depend on specific advisors, break when context changes, and don't compound knowledge over time.
+Most family offices operate without systems:
+
+- **No frameworks** — Every decision starts from scratch
+- **No playbooks** — Common situations handled ad-hoc each time
+- **Knowledge in heads** — Expertise lives in people, not systems
+- **Fragile structures** — Dependent on specific advisors, breaks when context changes
+- **No compounding** — Yesterday's work doesn't make tomorrow easier
 
 **Antifragile Office** is different. It's a system that gets stronger from stress—where every decision, every review, every question makes the whole system smarter.
+
+## What This Covers
+
+**Core Family Office functions:**
+- Investment thesis and portfolio management
+- Entity structures and governance
+- Tax planning and optimization
+- Succession and inheritance planning
+- Family governance and decision-making
+
+**The approach:**
+- Pre-defined frameworks for common decisions
+- AI-native workflows (not AI as afterthought)
+- Documented reasoning that compounds over time
 
 ## Philosophy
 
@@ -22,6 +42,7 @@ Traditional family office work treats AI as a helper. This system treats AI as a
 - Investment reviews with AI that knows your thesis
 - Tax scenarios explored conversationally
 - Governance decisions with full context preserved
+- Inheritance planning with long-term perspective
 
 ### Antifragility by Design
 
